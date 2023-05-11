@@ -1,0 +1,3 @@
+interface StockScraper {
+    void scrape();
+}
